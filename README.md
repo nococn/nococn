@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, 김도형입니다
 
-### **미디어 발행인 · 디지털 크리에이터 · 크리에이티브 테크놀로지스트**
+### **Publisher @ 한국청년미디어 · Digital Media & Creative Technology**
 
 [![웹사이트](https://img.shields.io/badge/한국청년미디어-웹사이트-0066FF?style=for-the-badge&logo=safari&logoColor=white)](https://kym.io.kr)
 [![인스타그램](https://img.shields.io/badge/인스타그램-@nococn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nococn)
