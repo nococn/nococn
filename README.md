@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👋 안녕하세요, 김도형입니다
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,100:1a1b26&height=180&section=header&text=Kim%20Do-hyeong&fontSize=42&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=Publisher%20%40%20%ED%95%9C%EA%B5%AD%EC%B2%AD%EB%85%84%EB%AF%B8%EB%94%94%EC%96%B4%20%C2%B7%20Digital%20Media%20%26%20Creative%20Technology&descSize=15&descAlignY=62&descColor=a9b1d6" width="100%" />
 
-### **Publisher @ 한국청년미디어 · Digital Media & Creative Technology**
-
-[![웹사이트](https://img.shields.io/badge/한국청년미디어-웹사이트-0066FF?style=for-the-badge&logo=safari&logoColor=white)](https://kym.io.kr)
+[![Developer Program](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nococn)
+[![웹사이트](https://img.shields.io/badge/한국청년미디어-공식웹사이트-0066FF?style=for-the-badge&logo=safari&logoColor=white)](https://kym.io.kr)
 [![인스타그램](https://img.shields.io/badge/인스타그램-@nococn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nococn)
 [![X](https://img.shields.io/badge/X-@nococn-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nococn)
 [![이메일](https://img.shields.io/badge/이메일-leecold8474@kakao.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leecold8474@kakao.com)
