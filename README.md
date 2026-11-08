@@ -79,7 +79,7 @@
 
 ## 🌟 주요 프로젝트
 
-- 📰 **[한국청년미디어 (KYM)](https://kym.io.kr)** · **[아키텍처 쇼케이스](https://github.com/nococn/kym-architecture-showcase)**
+- 📰 **[한국청년미디어](https://kym.io.kr)** · **[아키텍처 쇼케이스](https://github.com/nococn/kym-architecture-showcase)**
   - *Next.js 15 · Supabase · Cloudflare R2 · 고성능 온디맨드 ISR 아키텍처*
   - 청년 정책 및 시사 이슈를 전달하는 독립 디지털 뉴스룸, 실시간 여론조사 및 자동화 브리핑 시스템 구축 및 운영.
 - 🍵 **카페논 (Cafe Non)**
