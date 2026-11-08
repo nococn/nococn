@@ -55,12 +55,20 @@
 
 ---
 
-## 📊 활동 통계
+## 📊 활동 통계 & 트로피
 
 <div align="center">
   <a href="https://github.com/nococn">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=nococn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="nococn's GitHub Stats" />
     <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nococn&theme=tokyonight&hide_border=true" alt="nococn's Streak Stats" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=nococn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=AAA,AA,A,B,C,S,SS,SSS,SECRET" alt="Kim Do-hyeong's GitHub Trophies" />
   </a>
 </div>
 
