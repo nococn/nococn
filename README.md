@@ -4,7 +4,7 @@
 
 ### **Media Founder · Digital Creator · Creative Technologist**
 
-[![Website](https://img.shields.io/badge/KYM-한국청년미디어-0066FF?style=for-the-badge&logo=safari&logoColor=white)](https://kym.io.kr)
+[![Website](https://img.shields.io/badge/한국청년미디어-Website-0066FF?style=for-the-badge&logo=safari&logoColor=white)](https://kym.io.kr)
 [![Instagram](https://img.shields.io/badge/Instagram-@nococn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nococn)
 [![X](https://img.shields.io/badge/X-@nococn-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nococn)
 [![Email](https://img.shields.io/badge/Email-leecold8474@kakao.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leecold8474@kakao.com)
@@ -19,8 +19,8 @@
 
 ## 📌 About Me
 
-- 🚀 **Founder & Publisher** at **[한국청년미디어 (KYM)](https://kym.io.kr)** — Leading independent online journalism platform focused on youth policy, campus voices, and society.
-- 🍵 **Creative Director** preparing **[Cafe Non (카페논)](https://cafenon.kr)** — Contemporary teahouse and lifestyle brand.
+- 🚀 **Founder & Publisher** at **[한국청년미디어](https://kym.io.kr)** — Leading independent online journalism platform focused on youth policy, campus voices, and society.
+- 🍵 **Creative Director** preparing **Cafe Non (카페논)** — Contemporary teahouse and lifestyle brand.
 - 🏆 **Public Service Advertising Grand Prize Winner** — 부산시청자미디어센터 공익광고 공모전 최우수상 수상.
 - 💡 Passionate about **modern web architecture, digital media storytelling, creative design, and AI automation**.
 
@@ -68,10 +68,10 @@
 
 ## 🌟 Featured Highlights
 
-- 📰 **[한국청년미디어 (KYM)](https://kym.io.kr)**
+- 📰 **[한국청년미디어](https://kym.io.kr)**
   - *Next.js 15 · Supabase · Cloudflare R2 · High-Performance On-Demand ISR*
   - Digital media newsroom delivering real-time youth journalism, live RSS feeds, and interactive reader engagement.
-- 🍵 **[Cafe Non (카페논)](https://cafenon.kr)**
+- 🍵 **Cafe Non (카페논)**
   - *Brand Direction & Creative Strategy*
   - Modern teahouse & lifestyle brand concept focused on curated Korean teas and cultural experiences.
 
