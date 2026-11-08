@@ -59,7 +59,7 @@
 
 <div align="center">
   <a href="https://github.com/nococn">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=nococn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="nococn's GitHub Stats" />
+    <img height="160" src="https://github-stats-extended.vercel.app/api?username=nococn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="nococn's GitHub Stats" />
     <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nococn&theme=tokyonight&hide_border=true" alt="nococn's Streak Stats" />
   </a>
 </div>
