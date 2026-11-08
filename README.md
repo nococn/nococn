@@ -1,7 +1,5 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:16161e,100:1a1b26&height=180&section=header&text=Kim%20Do-hyeong&fontSize=42&fontColor=70a5fd&fontAlignY=38&desc=Publisher%20%40%20%ED%95%9C%EA%B5%AD%EC%B2%AD%EB%85%84%EB%AF%B8%EB%94%94%EC%96%B4%20%C2%B7%20Digital%20Media%20%26%20Creative%20Technology&descSize=15&descAlignY=62&descColor=a9b1d6)
-
 # 👋 안녕하세요, 김도형입니다
 
 ### **Publisher @ 한국청년미디어 · Digital Media & Creative Technology**
