@@ -1,5 +1,7 @@
 <div align="center">
 
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:16161e,100:1a1b26&height=180&section=header&text=Kim%20Do-hyeong&fontSize=42&fontColor=70a5fd&fontAlignY=38&desc=Publisher%20%40%20%ED%95%9C%EA%B5%AD%EC%B2%AD%EB%85%84%EB%AF%B8%EB%94%94%EC%96%B4%20%C2%B7%20Digital%20Media%20%26%20Creative%20Technology&descSize=15&descAlignY=62&descColor=a9b1d6)
+
 # 👋 안녕하세요, 김도형입니다
 
 ### **Publisher @ 한국청년미디어 · Digital Media & Creative Technology**
@@ -77,9 +79,9 @@
 
 ## 🌟 주요 프로젝트
 
-- 📰 **[한국청년미디어](https://kym.io.kr)**
+- 📰 **[한국청년미디어 (KYM)](https://kym.io.kr)** · **[아키텍처 쇼케이스](https://github.com/nococn/kym-architecture-showcase)**
   - *Next.js 15 · Supabase · Cloudflare R2 · 고성능 온디맨드 ISR 아키텍처*
-  - 청년 정책 및 시사 이슈를 전달하는 디지털 뉴스룸, 실시간 여론조사 및 자동화 브리핑 시스템 구축 및 운영.
+  - 청년 정책 및 시사 이슈를 전달하는 독립 디지털 뉴스룸, 실시간 여론조사 및 자동화 브리핑 시스템 구축 및 운영.
 - 🍵 **카페논 (Cafe Non)**
   - *브랜드 디렉팅 & 크리에이티브 전략 (기획 단계)*
   - 한국 고유의 전통차 라인업과 현대적 공간 경험을 잇는 라이프스타일 차 브랜드 기획.
