@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=nococn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=AAA,AA,A,B,C,S,SS,SSS,SECRET" alt="Kim Do-hyeong's GitHub Trophies" />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=nococn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=AAA,AA,A,B,C,S,SS,SSS,SECRET&wantMultipleLang=true" alt="Kim Do-hyeong's GitHub Trophies" />
   </a>
 </div>
 
