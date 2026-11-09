@@ -2,7 +2,6 @@
 
 Korean localization & open-source contributor  
 Publisher @ [Korea Youth Media](https://kym.io.kr) · Busan, South Korea 🇰🇷  
-<!-- TODO(owner): 직함 확정 — ”Publisher“ 또는 ”Founder & Publisher“ -->
 
 I localize open-source software into Korean, contribute fixes and docs upstream, and run a digital news outlet for young Koreans.
 
@@ -34,8 +33,7 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 
 - [Korea Youth Media](https://kym.io.kr): digital news for young Koreans, covering straight news and policy. Next.js · Vercel
 - [Hangul Fast Search](https://github.com/nococn/hangul-fast-search): zero-dependency Korean chosung search library *(in progress)*
-- Gen5W Sound Suite: ALSA 10-band parametric EQ for factory audio, tested on Kia The New Seltos
-<!-- TODO(owner): 검증한 차종 확인, 레포 링크 추가. 기존 ”Seltos 편의기능 연구“ 항목은 이 줄에 합침 -->
+- [Gen5W Sound Suite](https://github.com/nococn/gen5w-sound-suite): ALSA 10-band parametric EQ for factory audio, tested on Kia The New Seltos (2022)
 
 ## Stack
 
