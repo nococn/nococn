@@ -6,10 +6,8 @@ import {
   saveCache,
   fetchWithRetry,
   searchMergedPRs,
-  fetchPRFiles,
-  fetchRepoMeta,
-} from '../src/fetch.ts';
-import type { CacheData, ProfileConfig } from '../src/types.js';
+} from '../src/fetch.js';
+import type { ProfileConfig } from '../src/types.js';
 
 describe('fetch module', () => {
   const testCacheDir = path.resolve(process.cwd(), 'data/test-cache');
@@ -74,7 +72,7 @@ describe('fetch module', () => {
 
   it('retries without Authorization on 401 Unauthorized', async () => {
     let callCount = 0;
-    const mockFetch = vi.fn().mockImplementation(async (url: string, opts: RequestInit) => {
+    const mockFetch = vi.fn().mockImplementation(async (_url: string, opts: RequestInit) => {
       callCount++;
       const headers = (opts.headers || {}) as Record<string, string>;
       if (headers['Authorization']) {

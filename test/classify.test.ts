@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { classifyPR } from '../src/classify.ts';
+import { classifyPR } from '../src/classify.js';
 
 describe('classifyPR', () => {
   it('classifies PR with Korean title as l10n', () => {

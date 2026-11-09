@@ -6,7 +6,7 @@ import {
   injectContributions,
   MARKER_START,
   MARKER_END,
-} from '../src/render.ts';
+} from '../src/render.js';
 import type { EnrichedPR, RepoMeta, ProfileConfig } from '../src/types.js';
 
 describe('render module', () => {
