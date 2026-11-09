@@ -1,0 +1,37 @@
+# ==============================================================================
+# GitHub Profile Contribution Updater Configuration
+# ==============================================================================
+
+# GitHub username to scan merged pull requests for
+username: nococn
+
+# Professional headline displayed in profile title
+# e.g., "Publisher @ Korea Youth Media" or "Korean Localization Specialist"
+headline: "Publisher @ Korea Youth Media"
+
+# List of repository owners (usernames or organization handles) to exclude
+# Self-owned repos and company/internal organizations should be listed here.
+excludeOwners:
+  - nococn
+
+# Priority list of featured repositories (format: "owner/repo").
+# Repositories listed here appear first in the contributions section.
+# If left empty ([]), repositories are automatically ranked by stargazers count.
+featured: []
+# Example:
+# featured:
+#   - tldr-pages/tldr
+#   - vuejs-translations/docs-ko
+
+# Maximum number of top repositories to display in the primary list.
+# Repositories beyond this number are folded inside a <details> block.
+maxRepos: 10
+
+# Manual classification overrides for specific pull requests.
+# Key can be full PR URL (e.g. "https://github.com/owner/repo/pull/123") or "owner/repo#123".
+# Allowed values: l10n | docs | code
+overrides: {}
+# Example:
+# overrides:
+#   "https://github.com/stats-organization/github-stats-extended/pull/717": l10n
+#   "kyechan99/capsule-render#156": code
