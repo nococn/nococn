@@ -1,41 +1,48 @@
 <div align="center">
 
-# Do-hyeong Kim (nococn)
+# 김도형 · Do-hyeong Kim
 
+### **한국청년미디어 발행인 & 대표**
 ### **Publisher & Founder @ Korea Youth Media**
-*Digital Media Platform Architecture · Systems & Open Source*
 
 <br/>
 
 [![Korea Youth Media](https://img.shields.io/badge/Korea%20Youth%20Media-kym.io.kr-0066FF?style=flat-square&logo=safari&logoColor=white)](https://kym.io.kr)
-[![Email](https://img.shields.io/badge/Contact-nococn%40kym.io.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nococn@kym.io.kr)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nococn@kym.io.kr)
 [![Developer Program](https://img.shields.io/badge/GitHub-Developer%20Program-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/nococn)
 
 <br/>
 
-Building modern digital news platform architectures, high-performance web tooling, and automotive embedded audio systems.
+디지털 저널리즘 미디어 플랫폼을 운영하며 실용적인 오픈소스 소프트웨어와 임베디드 오디오 시스템을 만듭니다.  
+*Operating digital journalism media platforms, engineering practical open-source software and embedded audio systems.*
 
 </div>
 
 ---
 
-### 🚀 What I'm Working On & Contributing To
+### 🚀 프로젝트 & 오픈소스 연구 / Projects & Open Source
 
-- **Media & Publishing Architecture**: Leading **Korea Youth Media** (`kym.io.kr`), engineering modern digital journalism workflows, automated editorial pipelines, and next-gen news distribution platforms.
-- **Open Source Contributions & Research**:
-  - **[Faker.js](https://github.com/faker-js/faker)**: Core locale contributor expanding Korean (`ko`) datasets across food, automotive vehicles, and financial transaction domains.
-  - **[Hangul Fast Search](https://github.com/nococn/hangul-fast-search)**: Author of high-speed, zero-dependency (< 2KB) Korean Chosung decomposition and real-time fuzzy search library.
-  - **[Gen5W Sound Suite](https://github.com/nococn/gen5w-sound-suite)**: Parametric ALSA DSP 10-band audio engineering suite for Hyundai / Kia / Genesis Standard Gen5W infotainment systems.
+- **한국청년미디어 (Korea Youth Media)**: 청년 세대의 목소리와 시사 이슈를 객관적인 스트레이트 뉴스로 전하는 디지털 언론사 발행 및 운영 (`kym.io.kr`)  
+  *Publishing and operating Korea Youth Media, delivering objective journalism and policy news for youth.*
+
+- **[Hangul Fast Search](https://github.com/nococn/hangul-fast-search)**: 2KB 미만 초경량 제로 디펜던시 한글 초성 분해 및 실시간 퍼지 검색 엔진 라이브러리  
+  *Ultra-lightweight (< 2KB), zero-dependency Korean Chosung decomposition and real-time fuzzy search engine.*
+
+- **[Gen5W Sound Suite](https://github.com/nococn/gen5w-sound-suite)**: 현대·기아·제네시스 Standard Gen5W 순정 오디오 맞춤형 ALSA DSP 10밴드 파라메트릭 EQ 음향 튜닝 슈트  
+  *Parametric ALSA DSP 10-band audio engineering suite optimized for Hyundai, Kia, and Genesis Standard Gen5W factory audio systems.*
+
+- **[Seltos Convenience Suite](https://github.com/nococn/seltos-convenience-suite)**: 기아 더 뉴 셀토스 실차 인포테인먼트 편의 연구 패키지  
+  *Vehicle infotainment convenience research suite for Kia The New Seltos.*
 
 ---
 
-### 🛠️ Tech Stack & Focus
+### 🛠️ 기술 스택 / Tech Stack
 
 `TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Tailwind CSS` · `Supabase` · `Vercel` · `Cloudflare` · `ALSA Linux Audio`
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 활동 통계 / GitHub Stats
 
 <div align="center">
 
@@ -52,6 +59,6 @@ Building modern digital news platform architectures, high-performance web toolin
 
 <br/><br/>
 
-<sub>© 2026 Do-hyeong Kim. All rights reserved.</sub>
+<sub>© 2026 Kim Do-hyeong. All rights reserved.</sub>
 
 </div>
