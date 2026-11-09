@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-11-09T17:04:08.263Z",
+  "prs": {
+    "https://github.com/ghdtjdwn/ssuAI/pull/315": {
+      "id": 6287008486,
+      "number": 315,
+      "title": "fix(utils): formatKoreanDate 유효하지 않은 날짜 예외 방어 및 pickRelevantEvents limit 음수 처리",
+      "html_url": "https://github.com/ghdtjdwn/ssuAI/pull/315",
+      "repoFullName": "ghdtjdwn/ssuAI",
+      "merged_at": "2026-11-09T13:41:54Z",
+      "created_at": "2026-11-09T13:29:31Z",
+      "changedFiles": [
+        "lib/calendarEvents.test.ts",
+        "lib/calendarEvents.ts",
+        "lib/utils.test.ts",
+        "lib/utils.ts"
+      ]
+    },
+    "https://github.com/nushell/nushell.github.io/pull/2285": {
+      "id": 6279392582,
+      "number": 2285,
+      "title": "docs(ko): sync cheat sheet with upstream example fixes",
+      "html_url": "https://github.com/nushell/nushell.github.io/pull/2285",
+      "repoFullName": "nushell/nushell.github.io",
+      "merged_at": "2026-11-09T15:31:51Z",
+      "created_at": "2026-11-09T03:31:21Z",
+      "changedFiles": [
+        "ko/book/cheat_sheet.md"
+      ]
+    },
+    "https://github.com/kyechan99/capsule-render/pull/156": {
+      "id": 6278677604,
+      "number": 156,
+      "title": "test: add coverage for utils pipe helpers and parse functions",
+      "html_url": "https://github.com/kyechan99/capsule-render/pull/156",
+      "repoFullName": "kyechan99/capsule-render",
+      "merged_at": "2026-11-09T08:49:58Z",
+      "created_at": "2026-11-09T02:19:07Z",
+      "changedFiles": [
+        "__test__/utils.test.ts"
+      ]
+    },
+    "https://github.com/vuejs-translations/docs-ko/pull/631": {
+      "id": 6277951411,
+      "number": 631,
+      "title": "원문 동기화 (vuejs/docs b75d188a..40aa88af)",
+      "html_url": "https://github.com/vuejs-translations/docs-ko/pull/631",
+      "repoFullName": "vuejs-translations/docs-ko",
+      "merged_at": "2026-11-09T05:01:34Z",
+      "created_at": "2026-11-09T01:03:36Z",
+      "changedFiles": [
+        "src/guide/built-ins/teleport.md",
+        "src/guide/built-ins/transition-group.md"
+      ]
+    },
+    "https://github.com/tldr-pages/tldr/pull/25071": {
+      "id": 6273891566,
+      "number": 25071,
+      "title": "colab, colab-run: add Korean translation",
+      "html_url": "https://github.com/tldr-pages/tldr/pull/25071",
+      "repoFullName": "tldr-pages/tldr",
+      "merged_at": "2026-11-09T00:55:30Z",
+      "created_at": "2026-11-08T17:58:40Z",
+      "changedFiles": [
+        "pages.ko/common/colab-run.md",
+        "pages.ko/common/colab.md"
+      ]
+    },
+    "https://github.com/tldr-pages/tldr/pull/25070": {
+      "id": 6273857003,
+      "number": 25070,
+      "title": "mold, llm-models: add Korean translation",
+      "html_url": "https://github.com/tldr-pages/tldr/pull/25070",
+      "repoFullName": "tldr-pages/tldr",
+      "merged_at": "2026-11-09T00:57:18Z",
+      "created_at": "2026-11-08T17:54:51Z",
+      "changedFiles": [
+        "pages.ko/common/llm-models.md",
+        "pages.ko/common/mold.md"
+      ]
+    },
+    "https://github.com/tldr-pages/tldr/pull/25069": {
+      "id": 6273821715,
+      "number": 25069,
+      "title": "stripe-listen, stripe-logs: add Korean translation",
+      "html_url": "https://github.com/tldr-pages/tldr/pull/25069",
+      "repoFullName": "tldr-pages/tldr",
+      "merged_at": "2026-11-09T00:57:03Z",
+      "created_at": "2026-11-08T17:51:14Z",
+      "changedFiles": [
+        "pages.ko/common/stripe-listen.md",
+        "pages.ko/common/stripe-logs.md"
+      ]
+    },
+    "https://github.com/tldr-pages/tldr/pull/25068": {
+      "id": 6273768720,
+      "number": 25068,
+      "title": "wcurl, watchman: add Korean translation",
+      "html_url": "https://github.com/tldr-pages/tldr/pull/25068",
+      "repoFullName": "tldr-pages/tldr",
+      "merged_at": "2026-11-09T00:55:42Z",
+      "created_at": "2026-11-08T17:46:41Z",
+      "changedFiles": [
+        "pages.ko/common/watchman.md",
+        "pages.ko/common/wcurl.md"
+      ]
+    },
+    "https://github.com/vuejs-translations/docs-ko/pull/630": {
+      "id": 6273626785,
+      "number": 630,
+      "title": "docs: sync upstream fixes (dead links, scoped css tip, essentials conclusion)",
+      "html_url": "https://github.com/vuejs-translations/docs-ko/pull/630",
+      "repoFullName": "vuejs-translations/docs-ko",
+      "merged_at": "2026-11-09T05:00:19Z",
+      "created_at": "2026-11-08T17:31:49Z",
+      "changedFiles": [
+        "src/about/team/members-core.json",
+        "src/guide/components/slots.md",
+        "src/guide/essentials/component-basics.md",
+        "src/guide/essentials/lifecycle.md",
+        "src/guide/extras/render-function.md"
+      ]
+    },
+    "https://github.com/tldr-pages/tldr/pull/25067": {
+      "id": 6273489219,
+      "number": 25067,
+      "title": "vllm-chat, terraform-graph: add Korean translation",
+      "html_url": "https://github.com/tldr-pages/tldr/pull/25067",
+      "repoFullName": "tldr-pages/tldr",
+      "merged_at": "2026-11-09T00:56:44Z",
+      "created_at": "2026-11-08T17:16:46Z",
+      "changedFiles": [
+        "pages.ko/common/terraform-graph.md",
+        "pages.ko/common/vllm-chat.md"
+      ]
+    },
+    "https://github.com/tldr-pages/tldr/pull/25066": {
+      "id": 6273289083,
+      "number": 25066,
+      "title": "cjpeg, djpeg: add Korean translation",
+      "html_url": "https://github.com/tldr-pages/tldr/pull/25066",
+      "repoFullName": "tldr-pages/tldr",
+      "merged_at": "2026-11-09T00:55:54Z",
+      "created_at": "2026-11-08T16:55:13Z",
+      "changedFiles": [
+        "pages.ko/common/cjpeg.md",
+        "pages.ko/common/djpeg.md"
+      ]
+    },
+    "https://github.com/stats-organization/github-stats-extended/pull/717": {
+      "id": 6273122136,
+      "number": 717,
+      "title": "feat(core): add standard ISO ko locale alongside kr",
+      "html_url": "https://github.com/stats-organization/github-stats-extended/pull/717",
+      "repoFullName": "stats-organization/github-stats-extended",
+      "merged_at": "2026-11-08T18:45:40Z",
+      "created_at": "2026-11-08T16:37:29Z",
+      "changedFiles": [
+        "packages/core/src/translations.ts",
+        "packages/core/tests/i18n.test.ts"
+      ]
+    }
+  },
+  "repos": {
+    "ghdtjdwn/ssuAI": {
+      "fullName": "ghdtjdwn/ssuAI",
+      "name": "ssuAI",
+      "owner": "ghdtjdwn",
+      "ownerType": "User",
+      "description": "숭실대 공개·개인 데이터를 대시보드와 승인 기반 AI 작업으로 연결하는 비공식 캠퍼스 웹 애플리케이션",
+      "stars": 4,
+      "html_url": "https://github.com/ghdtjdwn/ssuAI"
+    },
+    "nushell/nushell.github.io": {
+      "fullName": "nushell/nushell.github.io",
+      "name": "nushell.github.io",
+      "owner": "nushell",
+      "ownerType": "Organization",
+      "description": "Nushell's main website, blog, book, and more",
+      "stars": 263,
+      "html_url": "https://github.com/nushell/nushell.github.io"
+    },
+    "kyechan99/capsule-render": {
+      "fullName": "kyechan99/capsule-render",
+      "name": "capsule-render",
+      "owner": "kyechan99",
+      "ownerType": "User",
+      "description": "🌈 Dynamic Coloful Image Render",
+      "stars": 1854,
+      "html_url": "https://github.com/kyechan99/capsule-render"
+    },
+    "vuejs-translations/docs-ko": {
+      "fullName": "vuejs-translations/docs-ko",
+      "name": "docs-ko",
+      "owner": "vuejs-translations",
+      "ownerType": "Organization",
+      "description": "📄 Korean translation for Vue docs",
+      "stars": 20,
+      "html_url": "https://github.com/vuejs-translations/docs-ko"
+    },
+    "tldr-pages/tldr": {
+      "fullName": "tldr-pages/tldr",
+      "name": "tldr",
+      "owner": "tldr-pages",
+      "ownerType": "Organization",
+      "description": "Collaborative cheatsheets for console commands 📚.",
+      "stars": 64177,
+      "html_url": "https://github.com/tldr-pages/tldr"
+    },
+    "stats-organization/github-stats-extended": {
+      "fullName": "stats-organization/github-stats-extended",
+      "name": "github-stats-extended",
+      "owner": "stats-organization",
+      "ownerType": "Organization",
+      "description": "Dynamically generate GitHub stats for your READMEs.",
+      "stars": 1675,
+      "html_url": "https://github.com/stats-organization/github-stats-extended"
+    }
+  }
+}
