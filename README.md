@@ -9,12 +9,14 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 
 <!-- CONTRIB:START -->
 
-**16 merged PRs across 8 repositories** · Localization 11 · Code 5 · Docs 0
+**24 merged PRs across 12 repositories** · Localization 19 · Code 5 · Docs 0
 
 - **[tldr-pages/tldr](https://github.com/tldr-pages/tldr)** ★64.2k · 6 merged · l10n 6
   - [#25070 mold, llm-models: add Korean translation](https://github.com/tldr-pages/tldr/pull/25070)
   - [#25069 stripe-listen, stripe-logs: add Korean translation](https://github.com/tldr-pages/tldr/pull/25069)
   - [#25067 vllm-chat, terraform-graph: add Korean translation](https://github.com/tldr-pages/tldr/pull/25067)
+- **[vuejs/vitepress](https://github.com/vuejs/vitepress)** ★18.5k · 1 merged · l10n 1
+  - [#5561 docs(ko): sync deploy guide with upstream](https://github.com/vuejs/vitepress/pull/5561)
 - **[DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)** ★9.5k · 2 merged · code 2
   - [#496 test(options): add test cases for multiline parameter](https://github.com/DenverCoder1/readme-typing-svg/pull/496)
   - [#497 test(options): add validation edge case tests for weight, color, boolean, and groups](https://github.com/DenverCoder1/readme-typing-svg/pull/497)
@@ -25,13 +27,27 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
   - [#156 test: add coverage for utils pipe helpers and parse functions](https://github.com/kyechan99/capsule-render/pull/156)
 - **[stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)** ★1.7k · 1 merged · l10n 1
   - [#717 feat(core): add standard ISO ko locale alongside kr](https://github.com/stats-organization/github-stats-extended/pull/717)
+- **[RARgames/4gaBoards](https://github.com/RARgames/4gaBoards)** ★738 · 1 merged · l10n 1
+  - [#1164 fix(locales): correct Korean anyMatch translation and add missing singular keys](https://github.com/RARgames/4gaBoards/pull/1164)
 - **[nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)** ★263 · 1 merged · l10n 1
   - [#2285 docs(ko): sync cheat sheet with upstream example fixes](https://github.com/nushell/nushell.github.io/pull/2285)
+- **[flisk-sh/flisk](https://github.com/flisk-sh/flisk)** ★38 · 5 merged · l10n 5
+  - [#3574 docs(i18n): add Korean translation for contributor quick start](https://github.com/flisk-sh/flisk/pull/3574)
+  - [#3585 docs(i18n): add Korean translation for honest tool comparison](https://github.com/flisk-sh/flisk/pull/3585)
+  - [#3586 docs(i18n): add Korean translation for smoke check guide](https://github.com/flisk-sh/flisk/pull/3586)
 - **[vuejs-translations/docs-ko](https://github.com/vuejs-translations/docs-ko)** ★20 · 2 merged · l10n 2
   - [#631 원문 동기화 (vuejs/docs b75d188a..40aa88af)](https://github.com/vuejs-translations/docs-ko/pull/631)
   - [#630 docs: sync upstream fixes (dead links, scoped css tip, essentials conclusion)](https://github.com/vuejs-translations/docs-ko/pull/630)
+
+<details>
+<summary>More repositories (2)</summary>
+
+- **[baipix/baipix](https://github.com/baipix/baipix)** ★13 · 1 merged · l10n 1
+  - [#791 feat(i18n): add Korean (ko) translation](https://github.com/baipix/baipix/pull/791)
 - **[ghdtjdwn/ssuAI](https://github.com/ghdtjdwn/ssuAI)** ★4 · 1 merged · code 1
   - [#315 fix(utils): formatKoreanDate 유효하지 않은 날짜 예외 방어 및 pickRelevantEvents limit 음수 처리](https://github.com/ghdtjdwn/ssuAI/pull/315)
+
+</details>
 
 <!-- CONTRIB:END -->
 

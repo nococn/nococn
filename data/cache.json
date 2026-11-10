@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-10T06:20:38.529Z",
+  "lastUpdated": "2026-11-10T23:53:53.555Z",
   "prs": {
     "https://github.com/ghdtjdwn/ssuAI/pull/315": {
       "id": 6287008486,
@@ -208,6 +208,105 @@
       "changedFiles": [
         "src/translations.php"
       ]
+    },
+    "https://github.com/baipix/baipix/pull/791": {
+      "id": 6312335434,
+      "number": 791,
+      "title": "feat(i18n): add Korean (ko) translation",
+      "html_url": "https://github.com/baipix/baipix/pull/791",
+      "repoFullName": "baipix/baipix",
+      "merged_at": "2026-11-10T20:00:13Z",
+      "created_at": "2026-11-10T17:36:58Z",
+      "changedFiles": [
+        "src/i18n/index.ts",
+        "src/i18n/ko.ts",
+        "tests/i18n.test.ts"
+      ]
+    },
+    "https://github.com/flisk-sh/flisk/pull/3586": {
+      "id": 6303381255,
+      "number": 3586,
+      "title": "docs(i18n): add Korean translation for smoke check guide",
+      "html_url": "https://github.com/flisk-sh/flisk/pull/3586",
+      "repoFullName": "flisk-sh/flisk",
+      "merged_at": "2026-11-10T09:27:26Z",
+      "created_at": "2026-11-10T08:43:04Z",
+      "changedFiles": [
+        "docs/smoke-ko.md"
+      ]
+    },
+    "https://github.com/flisk-sh/flisk/pull/3585": {
+      "id": 6303349403,
+      "number": 3585,
+      "title": "docs(i18n): add Korean translation for honest tool comparison",
+      "html_url": "https://github.com/flisk-sh/flisk/pull/3585",
+      "repoFullName": "flisk-sh/flisk",
+      "merged_at": "2026-11-10T09:38:35Z",
+      "created_at": "2026-11-10T08:40:58Z",
+      "changedFiles": [
+        "docs/compare-honest-ko.md"
+      ]
+    },
+    "https://github.com/flisk-sh/flisk/pull/3575": {
+      "id": 6302372619,
+      "number": 3575,
+      "title": "docs(i18n): add Korean translation for ui key bindings guide",
+      "html_url": "https://github.com/flisk-sh/flisk/pull/3575",
+      "repoFullName": "flisk-sh/flisk",
+      "merged_at": "2026-11-10T08:06:58Z",
+      "created_at": "2026-11-10T07:32:08Z",
+      "changedFiles": [
+        "docs/ui-ko.md"
+      ]
+    },
+    "https://github.com/flisk-sh/flisk/pull/3574": {
+      "id": 6302309395,
+      "number": 3574,
+      "title": "docs(i18n): add Korean translation for contributor quick start",
+      "html_url": "https://github.com/flisk-sh/flisk/pull/3574",
+      "repoFullName": "flisk-sh/flisk",
+      "merged_at": "2026-11-10T09:48:48Z",
+      "created_at": "2026-11-10T07:26:51Z",
+      "changedFiles": [
+        "docs/contributing/translations/quick-start-ko.md"
+      ]
+    },
+    "https://github.com/RARgames/4gaBoards/pull/1164": {
+      "id": 6302101684,
+      "number": 1164,
+      "title": "fix(locales): correct Korean anyMatch translation and add missing singular keys",
+      "html_url": "https://github.com/RARgames/4gaBoards/pull/1164",
+      "repoFullName": "RARgames/4gaBoards",
+      "merged_at": "2026-11-10T12:42:25Z",
+      "created_at": "2026-11-10T07:09:59Z",
+      "changedFiles": [
+        "packages/locales/src/ko/core.js"
+      ]
+    },
+    "https://github.com/flisk-sh/flisk/pull/3572": {
+      "id": 6301976250,
+      "number": 3572,
+      "title": "docs(i18n): add Korean translation for CLI unit tests guide",
+      "html_url": "https://github.com/flisk-sh/flisk/pull/3572",
+      "repoFullName": "flisk-sh/flisk",
+      "merged_at": "2026-11-10T07:56:35Z",
+      "created_at": "2026-11-10T07:00:06Z",
+      "changedFiles": [
+        "docs/contributing/08-write-cli-unit-tests.md",
+        "docs/contributing/translations/08-write-cli-unit-tests-ko.md"
+      ]
+    },
+    "https://github.com/vuejs/vitepress/pull/5561": {
+      "id": 6279379577,
+      "number": 5561,
+      "title": "docs(ko): sync deploy guide with upstream",
+      "html_url": "https://github.com/vuejs/vitepress/pull/5561",
+      "repoFullName": "vuejs/vitepress",
+      "merged_at": "2026-11-10T13:03:09Z",
+      "created_at": "2026-11-09T03:29:49Z",
+      "changedFiles": [
+        "docs/ko/guide/deploy.md"
+      ]
     }
   },
   "repos": {
@@ -282,6 +381,42 @@
       "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
       "stars": 7195,
       "html_url": "https://github.com/DenverCoder1/github-readme-streak-stats"
+    },
+    "baipix/baipix": {
+      "fullName": "baipix/baipix",
+      "name": "baipix",
+      "owner": "baipix",
+      "ownerType": "Organization",
+      "description": "Baipix is a free, browser-based pixel art editor with animation, isometric drawing and SVG export. Alternative to Aseprite and Piskel.",
+      "stars": 13,
+      "html_url": "https://github.com/baipix/baipix"
+    },
+    "flisk-sh/flisk": {
+      "fullName": "flisk-sh/flisk",
+      "name": "flisk",
+      "owner": "flisk-sh",
+      "ownerType": "Organization",
+      "description": "The local runtime your AI coding agent can start, check and fix. One command runs your multi-service app from a Compose file or plain commands, and an MCP server gives Claude Code, Cursor and Codex its health, logs and controls. MIT, no account.",
+      "stars": 38,
+      "html_url": "https://github.com/flisk-sh/flisk"
+    },
+    "RARgames/4gaBoards": {
+      "fullName": "RARgames/4gaBoards",
+      "name": "4gaBoards",
+      "owner": "RARgames",
+      "ownerType": "User",
+      "description": "Straightforward realtime kanban boards management for intuitive task tracking. 4ga Boards features an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity.",
+      "stars": 738,
+      "html_url": "https://github.com/RARgames/4gaBoards"
+    },
+    "vuejs/vitepress": {
+      "fullName": "vuejs/vitepress",
+      "name": "vitepress",
+      "owner": "vuejs",
+      "ownerType": "Organization",
+      "description": "Vite & Vue powered static site generator.",
+      "stars": 18486,
+      "html_url": "https://github.com/vuejs/vitepress"
     }
   }
 }
