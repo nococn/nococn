@@ -9,12 +9,18 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 
 <!-- CONTRIB:START -->
 
-**12 merged PRs across 6 repositories** · Localization 10 · Code 2 · Docs 0
+**16 merged PRs across 8 repositories** · Localization 11 · Code 5 · Docs 0
 
 - **[tldr-pages/tldr](https://github.com/tldr-pages/tldr)** ★64.2k · 6 merged · l10n 6
   - [#25070 mold, llm-models: add Korean translation](https://github.com/tldr-pages/tldr/pull/25070)
   - [#25069 stripe-listen, stripe-logs: add Korean translation](https://github.com/tldr-pages/tldr/pull/25069)
   - [#25067 vllm-chat, terraform-graph: add Korean translation](https://github.com/tldr-pages/tldr/pull/25067)
+- **[DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)** ★9.5k · 2 merged · code 2
+  - [#496 test(options): add test cases for multiline parameter](https://github.com/DenverCoder1/readme-typing-svg/pull/496)
+  - [#497 test(options): add validation edge case tests for weight, color, boolean, and groups](https://github.com/DenverCoder1/readme-typing-svg/pull/497)
+- **[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)** ★7.2k · 2 merged · l10n 1 · code 1
+  - [#962 fix(locale): add standard korean date format Y.n.j to ko locale](https://github.com/DenverCoder1/github-readme-streak-stats/pull/962)
+  - [#963 test(card): add unit tests for translateDays, getExcludingDaysText, and utf8 helpers](https://github.com/DenverCoder1/github-readme-streak-stats/pull/963)
 - **[kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)** ★1.9k · 1 merged · code 1
   - [#156 test: add coverage for utils pipe helpers and parse functions](https://github.com/kyechan99/capsule-render/pull/156)
 - **[stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)** ★1.7k · 1 merged · l10n 1

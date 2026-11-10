@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-09T21:55:35.313Z",
+  "lastUpdated": "2026-11-10T06:20:38.529Z",
   "prs": {
     "https://github.com/ghdtjdwn/ssuAI/pull/315": {
       "id": 6287008486,
@@ -160,6 +160,54 @@
         "packages/core/src/translations.ts",
         "packages/core/tests/i18n.test.ts"
       ]
+    },
+    "https://github.com/DenverCoder1/readme-typing-svg/pull/497": {
+      "id": 6278384427,
+      "number": 497,
+      "title": "test(options): add validation edge case tests for weight, color, boolean, and groups",
+      "html_url": "https://github.com/DenverCoder1/readme-typing-svg/pull/497",
+      "repoFullName": "DenverCoder1/readme-typing-svg",
+      "merged_at": "2026-11-09T23:33:17Z",
+      "created_at": "2026-11-09T01:49:21Z",
+      "changedFiles": [
+        "tests/OptionsValidationTest.php"
+      ]
+    },
+    "https://github.com/DenverCoder1/github-readme-streak-stats/pull/963": {
+      "id": 6278357074,
+      "number": 963,
+      "title": "test(card): add unit tests for translateDays, getExcludingDaysText, and utf8 helpers",
+      "html_url": "https://github.com/DenverCoder1/github-readme-streak-stats/pull/963",
+      "repoFullName": "DenverCoder1/github-readme-streak-stats",
+      "merged_at": "2026-11-09T23:34:28Z",
+      "created_at": "2026-11-09T01:46:44Z",
+      "changedFiles": [
+        "tests/CardTest.php"
+      ]
+    },
+    "https://github.com/DenverCoder1/readme-typing-svg/pull/496": {
+      "id": 6273580026,
+      "number": 496,
+      "title": "test(options): add test cases for multiline parameter",
+      "html_url": "https://github.com/DenverCoder1/readme-typing-svg/pull/496",
+      "repoFullName": "DenverCoder1/readme-typing-svg",
+      "merged_at": "2026-11-09T23:36:02Z",
+      "created_at": "2026-11-08T17:26:35Z",
+      "changedFiles": [
+        "tests/OptionsTest.php"
+      ]
+    },
+    "https://github.com/DenverCoder1/github-readme-streak-stats/pull/962": {
+      "id": 6272985868,
+      "number": 962,
+      "title": "fix(locale): add standard korean date format [Y.]n.j to ko locale",
+      "html_url": "https://github.com/DenverCoder1/github-readme-streak-stats/pull/962",
+      "repoFullName": "DenverCoder1/github-readme-streak-stats",
+      "merged_at": "2026-11-09T23:37:10Z",
+      "created_at": "2026-11-08T16:22:45Z",
+      "changedFiles": [
+        "src/translations.php"
+      ]
     }
   },
   "repos": {
@@ -216,6 +264,24 @@
       "description": "Dynamically generate GitHub stats for your READMEs.",
       "stars": 1675,
       "html_url": "https://github.com/stats-organization/github-stats-extended"
+    },
+    "DenverCoder1/readme-typing-svg": {
+      "fullName": "DenverCoder1/readme-typing-svg",
+      "name": "readme-typing-svg",
+      "owner": "DenverCoder1",
+      "ownerType": "User",
+      "description": "⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.",
+      "stars": 9518,
+      "html_url": "https://github.com/DenverCoder1/readme-typing-svg"
+    },
+    "DenverCoder1/github-readme-streak-stats": {
+      "fullName": "DenverCoder1/github-readme-streak-stats",
+      "name": "github-readme-streak-stats",
+      "owner": "DenverCoder1",
+      "ownerType": "User",
+      "description": "🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README",
+      "stars": 7195,
+      "html_url": "https://github.com/DenverCoder1/github-readme-streak-stats"
     }
   }
 }
