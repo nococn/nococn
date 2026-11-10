@@ -35,19 +35,34 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 
 <!-- CONTRIB:END -->
 
+### Active upstream reviews
+
+- **[faker-js/faker](https://github.com/faker-js/faker)** ★12.1k
+  - PR #4263 (`feat(locale): add food data for ko`) · Approved & 100% grammar-audited
+  - PR #4265 (`feat(locale): add vehicle data for ko`) · Approved by maintainer
+- **[APPS4ALL-Israel/perfect_seo](https://github.com/APPS4ALL-Israel/perfect_seo)**
+  - PR #22 (`feat(i18n): add Korean (ko) translation`) · Full UI parity (394 keys)
+- **[Zh0du/clipstack](https://github.com/Zh0du/clipstack)**
+  - PR #10 (`feat(i18n): add Korean (ko) localization`) · macOS clipboard menu tool
+- **[duanganucha/daisydays-web](https://github.com/duanganucha/daisydays-web)**
+  - PR #36 (`feat(i18n): add Korean (ko) localization`) · Offline health tracker PWA
+- **Campus & utility codebases**
+  - PRs across `k56754665/nara-price-quiz` (#1), `wookingwoo/jjambot-chatbot` (#35), `songeunyeol/chajeumpyo` (#182), `sangukjeon/wsu-meal` (#1)
+
 ## My projects
 
 - [Korea Youth Media](https://kym.io.kr): digital news for young Koreans, covering straight news and policy. Next.js · Vercel
-- [Hangul Fast Search](https://github.com/nococn/hangul-fast-search): zero-dependency Korean chosung search library *(in progress)*
-- [Gen5W Sound Suite](https://github.com/nococn/gen5w-sound-suite): ALSA 10-band parametric EQ for factory audio, tested on Kia The New Seltos (2022)
+- [Hangul Fast Search](https://github.com/nococn/hangul-fast-search): sub-2KB zero-dependency Korean chosung search library with full Hangul syllable decomposition. TypeScript · MIT
+- [Gen5W Sound Suite](https://github.com/nococn/gen5w-sound-suite): ALSA 10-band parametric EQ tuning suite for Hyundai/Kia Gen5W factory audio systems. Shell · ALSA
+- [Seltos Convenience Suite](https://github.com/nococn/seltos-convenience-suite): CarPlay auto-launch, AAC audio enhancement, and telemetry HUD for Kia The New Seltos (SP2PE)
 
 ## Stack
 
-TypeScript · Next.js · React · Node.js · Python · Tailwind CSS · Supabase · Vercel · Cloudflare · ALSA
+TypeScript · Next.js · React · Node.js · Python · Swift · Tailwind CSS · Supabase · Vercel · Cloudflare · ALSA
 
 <details>
 <summary>한국어 소개</summary>
 
-한국청년미디어 발행인. 오픈소스 소프트웨어의 한국어 현지화와 업스트림 기여를 하고, 청년 세대를 위한 디지털 언론사를 운영합니다.
+한국청년미디어 발행인. 오픈소스 소프트웨어의 한국어 현지화와 업스트림 기여를 진행하며, 청년 세대를 위한 디지털 언론사를 운영합니다.
 
 </details>
