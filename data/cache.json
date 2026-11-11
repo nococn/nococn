@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-10T23:53:53.555Z",
+  "lastUpdated": "2026-11-11T11:29:19.515Z",
   "prs": {
     "https://github.com/ghdtjdwn/ssuAI/pull/315": {
       "id": 6287008486,
@@ -307,6 +307,134 @@
       "changedFiles": [
         "docs/ko/guide/deploy.md"
       ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1870": {
+      "id": 6280173838,
+      "number": 1870,
+      "title": "docs(api-javascript): remove example file name (#23423)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1870",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-11T08:26:22Z",
+      "created_at": "2026-11-09T04:52:57Z",
+      "changedFiles": [
+        "guide/api-javascript.md"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1869": {
+      "id": 6277893547,
+      "number": 1869,
+      "title": "docs: fix ViteConf tag hover resize loop and size version check input (#23954, #23505)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1869",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-11T08:28:27Z",
+      "created_at": "2026-11-09T00:57:32Z",
+      "changedFiles": [
+        ".vitepress/theme/components/AsideSponsors.vue",
+        ".vitepress/theme/components/SupportedVersions.vue"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1868": {
+      "id": 6277880626,
+      "number": 1868,
+      "title": "docs: update ViteConf banner and aside link to 2026 (#23569)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1868",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-11T08:27:08Z",
+      "created_at": "2026-11-09T00:56:10Z",
+      "changedFiles": [
+        ".vitepress/config.ts",
+        ".vitepress/theme/components/AsideSponsors.vue",
+        ".vitepress/theme/components/TopBanner.vue"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1867": {
+      "id": 6277791576,
+      "number": 1867,
+      "title": "docs: fix built-in anchor in plugins guide and update dev tools list (#23525, #23786)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1867",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-11T08:28:11Z",
+      "created_at": "2026-11-09T00:46:05Z",
+      "changedFiles": [
+        "_data/acknowledgements.data.ts",
+        "plugins/index.md"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1866": {
+      "id": 6277782237,
+      "number": 1866,
+      "title": "docs(ssr): explain server-only module reloads (#23235)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1866",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-11T08:26:39Z",
+      "created_at": "2026-11-09T00:45:04Z",
+      "changedFiles": [
+        "guide/ssr.md"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1865": {
+      "id": 6277774618,
+      "number": 1865,
+      "title": "docs(config): clarify server.fs.deny default override and document preserveEntrySignatures defaults (#23999, #23469)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1865",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-11T08:28:44Z",
+      "created_at": "2026-11-09T00:44:19Z",
+      "changedFiles": [
+        "config/build-options.md",
+        "config/server-options.md"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1864": {
+      "id": 6273701696,
+      "number": 1864,
+      "title": "docs: dynamic import retries (#23709)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1864",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-11T08:27:54Z",
+      "created_at": "2026-11-08T17:40:07Z",
+      "changedFiles": [
+        "guide/build.md",
+        "guide/troubleshooting.md"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1863": {
+      "id": 6273683328,
+      "number": 1863,
+      "title": "docs(troubleshooting): suggest usePolling for EISDIR error when watching files (#21578)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1863",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-11T08:27:21Z",
+      "created_at": "2026-11-08T17:38:02Z",
+      "changedFiles": [
+        "guide/troubleshooting.md"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1862": {
+      "id": 6273658991,
+      "number": 1862,
+      "title": "docs(config): correct the server.sourcemapIgnoreList default (#23462)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1862",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-11T08:26:52Z",
+      "created_at": "2026-11-08T17:35:20Z",
+      "changedFiles": [
+        "config/server-options.md"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1861": {
+      "id": 6273518417,
+      "number": 1861,
+      "title": "docs(guide): fix code example errors (#23718)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1861",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-11T08:27:40Z",
+      "created_at": "2026-11-08T17:20:01Z",
+      "changedFiles": [
+        "guide/api-environment-frameworks.md",
+        "guide/api-plugin.md",
+        "guide/migration.md"
+      ]
     }
   },
   "repos": {
@@ -417,6 +545,15 @@
       "description": "Vite & Vue powered static site generator.",
       "stars": 18486,
       "html_url": "https://github.com/vuejs/vitepress"
+    },
+    "vitejs/docs-ko": {
+      "fullName": "vitejs/docs-ko",
+      "name": "docs-ko",
+      "owner": "vitejs",
+      "ownerType": "Organization",
+      "description": "Vite 한글 공식 문서 (Korean translation of Vite)",
+      "stars": 111,
+      "html_url": "https://github.com/vitejs/docs-ko"
     }
   }
 }
