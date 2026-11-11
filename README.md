@@ -68,7 +68,6 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 ## My projects
 
 - [Korea Youth Media](https://kym.io.kr): digital news for young Koreans, covering straight news and policy. Next.js · Vercel
-- [Hangul Fast Search](https://github.com/nococn/hangul-fast-search): sub-2KB zero-dependency Korean chosung search library with full Hangul syllable decomposition. TypeScript · MIT
 - [Gen5W Sound Suite](https://github.com/nococn/gen5w-sound-suite): ALSA 10-band parametric EQ tuning suite for Hyundai/Kia Gen5W factory audio systems. Shell · ALSA
 - [Seltos Convenience Suite](https://github.com/nococn/seltos-convenience-suite): CarPlay auto-launch, AAC audio enhancement, and telemetry HUD for Kia The New Seltos (SP2PE)
 
