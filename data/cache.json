@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-12T01:17:02.554Z",
+  "lastUpdated": "2026-11-12T23:57:34.646Z",
   "prs": {
     "https://github.com/ghdtjdwn/ssuAI/pull/315": {
       "id": 6287008486,
@@ -435,6 +435,69 @@
         "guide/api-plugin.md",
         "guide/migration.md"
       ]
+    },
+    "https://github.com/andrewsiah/agentswarm-cli/pull/12": {
+      "id": 6311949543,
+      "number": 12,
+      "title": "docs: add Korean translation (README.ko.md)",
+      "html_url": "https://github.com/andrewsiah/agentswarm-cli/pull/12",
+      "repoFullName": "andrewsiah/agentswarm-cli",
+      "merged_at": "2026-11-12T07:27:18Z",
+      "created_at": "2026-11-10T17:14:25Z",
+      "changedFiles": [
+        "README.ko.md",
+        "README.md"
+      ]
+    },
+    "https://github.com/andrewsiah/agentswarm-mcp/pull/16": {
+      "id": 6311891780,
+      "number": 16,
+      "title": "docs: add Korean translation (README.ko.md)",
+      "html_url": "https://github.com/andrewsiah/agentswarm-mcp/pull/16",
+      "repoFullName": "andrewsiah/agentswarm-mcp",
+      "merged_at": "2026-11-12T07:27:27Z",
+      "created_at": "2026-11-10T17:11:02Z",
+      "changedFiles": [
+        "README.ko.md",
+        "README.md"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1871": {
+      "id": 6280192313,
+      "number": 1871,
+      "title": "docs(config): document devtools dev server integration and tsconfig option (#23333, #23310)",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1871",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-12T07:17:21Z",
+      "created_at": "2026-11-09T04:55:04Z",
+      "changedFiles": [
+        "config/shared-options.md",
+        "guide/features.md"
+      ]
+    },
+    "https://github.com/drawdb-io/drawdb/pull/1196": {
+      "id": 6279386756,
+      "number": 1196,
+      "title": "feat(i18n): complete Korean translations",
+      "html_url": "https://github.com/drawdb-io/drawdb/pull/1196",
+      "repoFullName": "drawdb-io/drawdb",
+      "merged_at": "2026-11-12T10:13:47Z",
+      "created_at": "2026-11-09T03:30:40Z",
+      "changedFiles": [
+        "src/i18n/locales/ko.js"
+      ]
+    },
+    "https://github.com/vitejs/docs-ko/pull/1860": {
+      "id": 6273426148,
+      "number": 1860,
+      "title": "docs(env-and-mode): replace dead TypeScript dom/webworker lib links",
+      "html_url": "https://github.com/vitejs/docs-ko/pull/1860",
+      "repoFullName": "vitejs/docs-ko",
+      "merged_at": "2026-11-12T07:14:58Z",
+      "created_at": "2026-11-08T17:09:57Z",
+      "changedFiles": [
+        "guide/env-and-mode.md"
+      ]
     }
   },
   "repos": {
@@ -554,6 +617,33 @@
       "description": "Vite 한글 공식 문서 (Korean translation of Vite)",
       "stars": 111,
       "html_url": "https://github.com/vitejs/docs-ko"
+    },
+    "andrewsiah/agentswarm-cli": {
+      "fullName": "andrewsiah/agentswarm-cli",
+      "name": "agentswarm-cli",
+      "owner": "andrewsiah",
+      "ownerType": "User",
+      "description": "Command-line client for the agentswarm.space public API",
+      "stars": 0,
+      "html_url": "https://github.com/andrewsiah/agentswarm-cli"
+    },
+    "andrewsiah/agentswarm-mcp": {
+      "fullName": "andrewsiah/agentswarm-mcp",
+      "name": "agentswarm-mcp",
+      "owner": "andrewsiah",
+      "ownerType": "User",
+      "description": "MCP server for agentswarm.space: find tasks and bounties, register an agent, deliver work.",
+      "stars": 0,
+      "html_url": "https://github.com/andrewsiah/agentswarm-mcp"
+    },
+    "drawdb-io/drawdb": {
+      "fullName": "drawdb-io/drawdb",
+      "name": "drawdb",
+      "owner": "drawdb-io",
+      "ownerType": "Organization",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "stars": 40315,
+      "html_url": "https://github.com/drawdb-io/drawdb"
     }
   }
 }
