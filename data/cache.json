@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-12T23:57:34.646Z",
+  "lastUpdated": "2026-11-14T00:08:54.098Z",
   "prs": {
     "https://github.com/ghdtjdwn/ssuAI/pull/315": {
       "id": 6287008486,
@@ -498,6 +498,74 @@
       "changedFiles": [
         "guide/env-and-mode.md"
       ]
+    },
+    "https://github.com/mdn/translated-content/pull/40063": {
+      "id": 6278655326,
+      "number": 40063,
+      "title": "fix(ko): 컨테이닝 블록 문서의 잘못된 백분율 계산 설명 제거",
+      "html_url": "https://github.com/mdn/translated-content/pull/40063",
+      "repoFullName": "mdn/translated-content",
+      "merged_at": "2026-11-13T18:36:08Z",
+      "created_at": "2026-11-09T02:17:06Z",
+      "changedFiles": [
+        "files/ko/web/css/guides/display/containing_block/index.md"
+      ]
+    },
+    "https://github.com/mdn/translated-content/pull/40062": {
+      "id": 6278474317,
+      "number": 40062,
+      "title": "fix(ko): 중요 렌더링 경로 문서 잔여 오타 수정",
+      "html_url": "https://github.com/mdn/translated-content/pull/40062",
+      "repoFullName": "mdn/translated-content",
+      "merged_at": "2026-11-13T18:41:35Z",
+      "created_at": "2026-11-09T01:59:05Z",
+      "changedFiles": [
+        "files/ko/web/performance/guides/critical_rendering_path/index.md"
+      ]
+    },
+    "https://github.com/mdn/translated-content/pull/40061": {
+      "id": 6278464371,
+      "number": 40061,
+      "title": "fix(ko): Shorthand properties 문서의 깨진 이미지 링크 수정",
+      "html_url": "https://github.com/mdn/translated-content/pull/40061",
+      "repoFullName": "mdn/translated-content",
+      "merged_at": "2026-11-13T18:59:30Z",
+      "created_at": "2026-11-09T01:57:59Z",
+      "changedFiles": [
+        "files/ko/web/css/guides/cascade/shorthand_properties/index.md"
+      ]
+    },
+    "https://github.com/mdn/translated-content/pull/40060": {
+      "id": 6278453014,
+      "number": 40060,
+      "title": "fix(ko): Publishing your website GitHub 섹션 오타 수정",
+      "html_url": "https://github.com/mdn/translated-content/pull/40060",
+      "repoFullName": "mdn/translated-content",
+      "merged_at": "2026-11-13T18:36:41Z",
+      "created_at": "2026-11-09T01:56:47Z",
+      "changedFiles": [
+        "files/ko/learn_web_development/getting_started/your_first_website/publishing_your_website/index.md"
+      ]
+    },
+    "https://github.com/mdn/translated-content/pull/40059": {
+      "id": 6278147965,
+      "number": 40059,
+      "title": "ko: 2D 벽돌깨기 튜토리얼의 JSFiddleEmbed를 EmbedLiveSample로 마이그레이션",
+      "html_url": "https://github.com/mdn/translated-content/pull/40059",
+      "repoFullName": "mdn/translated-content",
+      "merged_at": "2026-11-13T18:52:26Z",
+      "created_at": "2026-11-09T01:23:26Z",
+      "changedFiles": [
+        "files/ko/games/tutorials/2d_breakout_game_phaser/track_the_score_and_win/index.md",
+        "files/ko/games/tutorials/2d_breakout_game_pure_javascript/bounce_off_the_walls/index.md",
+        "files/ko/games/tutorials/2d_breakout_game_pure_javascript/build_the_brick_field/index.md",
+        "files/ko/games/tutorials/2d_breakout_game_pure_javascript/extra_lives/index.md",
+        "files/ko/games/tutorials/2d_breakout_game_pure_javascript/game_over/index.md",
+        "files/ko/games/tutorials/2d_breakout_game_pure_javascript/initialize_the_canvas/index.md",
+        "files/ko/games/tutorials/2d_breakout_game_pure_javascript/move_the_ball/index.md",
+        "files/ko/games/tutorials/2d_breakout_game_pure_javascript/player_paddle_and_controls/index.md",
+        "files/ko/games/tutorials/2d_breakout_game_pure_javascript/track_the_score_and_win/index.md"
+      ]
     }
   },
   "repos": {
@@ -644,6 +712,15 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "stars": 40315,
       "html_url": "https://github.com/drawdb-io/drawdb"
+    },
+    "mdn/translated-content": {
+      "fullName": "mdn/translated-content",
+      "name": "translated-content",
+      "owner": "mdn",
+      "ownerType": "Organization",
+      "description": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.",
+      "stars": 2046,
+      "html_url": "https://github.com/mdn/translated-content"
     }
   }
 }

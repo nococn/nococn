@@ -9,7 +9,7 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 
 <!-- CONTRIB:START -->
 
-**39 merged PRs across 16 repositories** · Localization 34 · Code 5 · Docs 0
+**44 merged PRs across 17 repositories** · Localization 39 · Code 5 · Docs 0
 
 - **[tldr-pages/tldr](https://github.com/tldr-pages/tldr)** ★64.2k · 6 merged · l10n 6
   - [#25070 mold, llm-models: add Korean translation](https://github.com/tldr-pages/tldr/pull/25070)
@@ -25,6 +25,10 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 - **[DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)** ★7.2k · 2 merged · l10n 1 · code 1
   - [#962 fix(locale): add standard korean date format Y.n.j to ko locale](https://github.com/DenverCoder1/github-readme-streak-stats/pull/962)
   - [#963 test(card): add unit tests for translateDays, getExcludingDaysText, and utf8 helpers](https://github.com/DenverCoder1/github-readme-streak-stats/pull/963)
+- **[mdn/translated-content](https://github.com/mdn/translated-content)** ★2k · 5 merged · l10n 5
+  - [#40061 fix(ko): Shorthand properties 문서의 깨진 이미지 링크 수정](https://github.com/mdn/translated-content/pull/40061)
+  - [#40059 ko: 2D 벽돌깨기 튜토리얼의 JSFiddleEmbed를 EmbedLiveSample로 마이그레이션](https://github.com/mdn/translated-content/pull/40059)
+  - [#40062 fix(ko): 중요 렌더링 경로 문서 잔여 오타 수정](https://github.com/mdn/translated-content/pull/40062)
 - **[kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)** ★1.9k · 1 merged · code 1
   - [#156 test: add coverage for utils pipe helpers and parse functions](https://github.com/kyechan99/capsule-render/pull/156)
 - **[stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)** ★1.7k · 1 merged · l10n 1
@@ -33,14 +37,14 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
   - [#1164 fix(locales): correct Korean anyMatch translation and add missing singular keys](https://github.com/RARgames/4gaBoards/pull/1164)
 - **[nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)** ★263 · 1 merged · l10n 1
   - [#2285 docs(ko): sync cheat sheet with upstream example fixes](https://github.com/nushell/nushell.github.io/pull/2285)
+
+<details>
+<summary>More repositories (7)</summary>
+
 - **[vitejs/docs-ko](https://github.com/vitejs/docs-ko)** ★111 · 12 merged · l10n 12
   - [#1871 docs(config): document devtools dev server integration and tsconfig option (#23333, #23310)](https://github.com/vitejs/docs-ko/pull/1871)
   - [#1860 docs(env-and-mode): replace dead TypeScript dom/webworker lib links](https://github.com/vitejs/docs-ko/pull/1860)
   - [#1865 docs(config): clarify server.fs.deny default override and document preserveEntrySignatures defaults (#23999, #23469)](https://github.com/vitejs/docs-ko/pull/1865)
-
-<details>
-<summary>More repositories (6)</summary>
-
 - **[flisk-sh/flisk](https://github.com/flisk-sh/flisk)** ★38 · 5 merged · l10n 5
   - [#3574 docs(i18n): add Korean translation for contributor quick start](https://github.com/flisk-sh/flisk/pull/3574)
   - [#3585 docs(i18n): add Korean translation for honest tool comparison](https://github.com/flisk-sh/flisk/pull/3585)
