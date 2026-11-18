@@ -9,7 +9,7 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 
 <!-- CONTRIB:START -->
 
-**44 merged PRs across 17 repositories** · Localization 39 · Code 5 · Docs 0
+**45 merged PRs across 18 repositories** · Localization 40 · Code 5 · Docs 0
 
 - **[tldr-pages/tldr](https://github.com/tldr-pages/tldr)** ★64.2k · 6 merged · l10n 6
   - [#25070 mold, llm-models: add Korean translation](https://github.com/tldr-pages/tldr/pull/25070)
@@ -19,6 +19,8 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
   - [#1196 feat(i18n): complete Korean translations](https://github.com/drawdb-io/drawdb/pull/1196)
 - **[vuejs/vitepress](https://github.com/vuejs/vitepress)** ★18.5k · 1 merged · l10n 1
   - [#5561 docs(ko): sync deploy guide with upstream](https://github.com/vuejs/vitepress/pull/5561)
+- **[faker-js/faker](https://github.com/faker-js/faker)** ★15.6k · 1 merged · l10n 1
+  - [#4265 feat(locale): add vehicle data for ko](https://github.com/faker-js/faker/pull/4265)
 - **[DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)** ★9.5k · 2 merged · code 2
   - [#496 test(options): add test cases for multiline parameter](https://github.com/DenverCoder1/readme-typing-svg/pull/496)
   - [#497 test(options): add validation edge case tests for weight, color, boolean, and groups](https://github.com/DenverCoder1/readme-typing-svg/pull/497)
@@ -35,12 +37,12 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
   - [#717 feat(core): add standard ISO ko locale alongside kr](https://github.com/stats-organization/github-stats-extended/pull/717)
 - **[RARgames/4gaBoards](https://github.com/RARgames/4gaBoards)** ★738 · 1 merged · l10n 1
   - [#1164 fix(locales): correct Korean anyMatch translation and add missing singular keys](https://github.com/RARgames/4gaBoards/pull/1164)
-- **[nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)** ★263 · 1 merged · l10n 1
-  - [#2285 docs(ko): sync cheat sheet with upstream example fixes](https://github.com/nushell/nushell.github.io/pull/2285)
 
 <details>
-<summary>More repositories (7)</summary>
+<summary>More repositories (8)</summary>
 
+- **[nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)** ★263 · 1 merged · l10n 1
+  - [#2285 docs(ko): sync cheat sheet with upstream example fixes](https://github.com/nushell/nushell.github.io/pull/2285)
 - **[vitejs/docs-ko](https://github.com/vitejs/docs-ko)** ★111 · 12 merged · l10n 12
   - [#1871 docs(config): document devtools dev server integration and tsconfig option (#23333, #23310)](https://github.com/vitejs/docs-ko/pull/1871)
   - [#1860 docs(env-and-mode): replace dead TypeScript dom/webworker lib links](https://github.com/vitejs/docs-ko/pull/1860)
