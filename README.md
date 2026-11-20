@@ -9,7 +9,7 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 
 <!-- CONTRIB:START -->
 
-**45 merged PRs across 18 repositories** · Localization 40 · Code 5 · Docs 0
+**49 merged PRs across 19 repositories** · Localization 43 · Code 5 · Docs 1
 
 - **[tldr-pages/tldr](https://github.com/tldr-pages/tldr)** ★64.2k · 6 merged · l10n 6
   - [#25070 mold, llm-models: add Korean translation](https://github.com/tldr-pages/tldr/pull/25070)
@@ -35,12 +35,16 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
   - [#156 test: add coverage for utils pipe helpers and parse functions](https://github.com/kyechan99/capsule-render/pull/156)
 - **[stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)** ★1.7k · 1 merged · l10n 1
   - [#717 feat(core): add standard ISO ko locale alongside kr](https://github.com/stats-organization/github-stats-extended/pull/717)
-- **[RARgames/4gaBoards](https://github.com/RARgames/4gaBoards)** ★738 · 1 merged · l10n 1
-  - [#1164 fix(locales): correct Korean anyMatch translation and add missing singular keys](https://github.com/RARgames/4gaBoards/pull/1164)
+- **[reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev)** ★829 · 4 merged · l10n 3 · docs 1
+  - [#1592 docs: translate resumeAndPrerenderToNodeStream reference to Korean (#1475)](https://github.com/reactjs/ko.react.dev/pull/1592)
+  - [#1588 docs: translate <img> component reference to Korean](https://github.com/reactjs/ko.react.dev/pull/1588)
+  - [#1587 docs(blog): translate recent blog index cards to Korean](https://github.com/reactjs/ko.react.dev/pull/1587)
 
 <details>
-<summary>More repositories (8)</summary>
+<summary>More repositories (9)</summary>
 
+- **[RARgames/4gaBoards](https://github.com/RARgames/4gaBoards)** ★738 · 1 merged · l10n 1
+  - [#1164 fix(locales): correct Korean anyMatch translation and add missing singular keys](https://github.com/RARgames/4gaBoards/pull/1164)
 - **[nushell/nushell.github.io](https://github.com/nushell/nushell.github.io)** ★263 · 1 merged · l10n 1
   - [#2285 docs(ko): sync cheat sheet with upstream example fixes](https://github.com/nushell/nushell.github.io/pull/2285)
 - **[vitejs/docs-ko](https://github.com/vitejs/docs-ko)** ★111 · 12 merged · l10n 12
