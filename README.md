@@ -9,7 +9,7 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 
 <!-- CONTRIB:START -->
 
-**49 merged PRs across 19 repositories** · Localization 43 · Code 5 · Docs 1
+**44 merged PRs across 18 repositories** · Localization 38 · Code 5 · Docs 1
 
 - **[tldr-pages/tldr](https://github.com/tldr-pages/tldr)** ★64.2k · 6 merged · l10n 6
   - [#25070 mold, llm-models: add Korean translation](https://github.com/tldr-pages/tldr/pull/25070)
@@ -41,7 +41,7 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
   - [#1587 docs(blog): translate recent blog index cards to Korean](https://github.com/reactjs/ko.react.dev/pull/1587)
 
 <details>
-<summary>More repositories (9)</summary>
+<summary>More repositories (8)</summary>
 
 - **[RARgames/4gaBoards](https://github.com/RARgames/4gaBoards)** ★738 · 1 merged · l10n 1
   - [#1164 fix(locales): correct Korean anyMatch translation and add missing singular keys](https://github.com/RARgames/4gaBoards/pull/1164)
@@ -51,10 +51,6 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
   - [#1871 docs(config): document devtools dev server integration and tsconfig option (#23333, #23310)](https://github.com/vitejs/docs-ko/pull/1871)
   - [#1860 docs(env-and-mode): replace dead TypeScript dom/webworker lib links](https://github.com/vitejs/docs-ko/pull/1860)
   - [#1865 docs(config): clarify server.fs.deny default override and document preserveEntrySignatures defaults (#23999, #23469)](https://github.com/vitejs/docs-ko/pull/1865)
-- **[flisk-sh/flisk](https://github.com/flisk-sh/flisk)** ★38 · 5 merged · l10n 5
-  - [#3574 docs(i18n): add Korean translation for contributor quick start](https://github.com/flisk-sh/flisk/pull/3574)
-  - [#3585 docs(i18n): add Korean translation for honest tool comparison](https://github.com/flisk-sh/flisk/pull/3585)
-  - [#3586 docs(i18n): add Korean translation for smoke check guide](https://github.com/flisk-sh/flisk/pull/3586)
 - **[vuejs-translations/docs-ko](https://github.com/vuejs-translations/docs-ko)** ★20 · 2 merged · l10n 2
   - [#631 원문 동기화 (vuejs/docs b75d188a..40aa88af)](https://github.com/vuejs-translations/docs-ko/pull/631)
   - [#630 docs: sync upstream fixes (dead links, scoped css tip, essentials conclusion)](https://github.com/vuejs-translations/docs-ko/pull/630)
