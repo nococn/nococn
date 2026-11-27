@@ -9,7 +9,7 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
 
 <!-- CONTRIB:START -->
 
-**44 merged PRs across 18 repositories** · Localization 38 · Code 5 · Docs 1
+**46 merged PRs across 20 repositories** · Localization 38 · Code 7 · Docs 1
 
 - **[tldr-pages/tldr](https://github.com/tldr-pages/tldr)** ★64.2k · 6 merged · l10n 6
   - [#25070 mold, llm-models: add Korean translation](https://github.com/tldr-pages/tldr/pull/25070)
@@ -41,7 +41,7 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
   - [#1587 docs(blog): translate recent blog index cards to Korean](https://github.com/reactjs/ko.react.dev/pull/1587)
 
 <details>
-<summary>More repositories (8)</summary>
+<summary>More repositories (10)</summary>
 
 - **[RARgames/4gaBoards](https://github.com/RARgames/4gaBoards)** ★738 · 1 merged · l10n 1
   - [#1164 fix(locales): correct Korean anyMatch translation and add missing singular keys](https://github.com/RARgames/4gaBoards/pull/1164)
@@ -62,6 +62,10 @@ I localize open-source software into Korean, contribute fixes and docs upstream,
   - [#12 docs: add Korean translation (README.ko.md)](https://github.com/andrewsiah/agentswarm-cli/pull/12)
 - **[andrewsiah/agentswarm-mcp](https://github.com/andrewsiah/agentswarm-mcp)** ★0 · 1 merged · l10n 1
   - [#16 docs: add Korean translation (README.ko.md)](https://github.com/andrewsiah/agentswarm-mcp/pull/16)
+- **[sangukjeon/wsu-meal](https://github.com/sangukjeon/wsu-meal)** ★0 · 1 merged · code 1
+  - [#1 fix(app): 야간 식단 '지금' 표시 방어 및 빈 메뉴 배열 예외 처리](https://github.com/sangukjeon/wsu-meal/pull/1)
+- **[sangukjeon/wsu-meal-api](https://github.com/sangukjeon/wsu-meal-api)** ★0 · 1 merged · code 1
+  - [#1 fix: 빈 식단 데이터 및 date 디렉토리 부재 시 런타임 예외 방어](https://github.com/sangukjeon/wsu-meal-api/pull/1)
 
 </details>
 
